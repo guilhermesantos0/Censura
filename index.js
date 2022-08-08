@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
-const token = "OTk3MzE2NTQ3OTU1NjU0NzQ2.GQoESc.d2aGnOfzkKA6w9Mk4w5K7zoNZylHUk6SxzA_28"
-const testoken = "ODI0NDA4MzI4MTIxNjE0Mzg2.YFu8Fg._JoT7ydIV1AKXQcrvzo9xE4nC60"
+const token = ""
+const testoken = "" // ignora
 const words = require("./words.json");
 const fs = require("fs");
 
